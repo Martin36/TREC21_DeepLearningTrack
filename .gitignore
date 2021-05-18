@@ -1,0 +1,6 @@
+venv/
+data/
+.vscode/
+language-models/
+.ipynb_checkpoints/
+
